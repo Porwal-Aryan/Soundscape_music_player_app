@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "814640642403",
+    "project_id": "soundscape-872bb",
+    "storage_bucket": "soundscape-872bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814640642403:android:1f48fabc2387a936097b56",
+        "android_client_info": {
+          "package_name": "com.example.soundscape"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQd2j-oHIFOtB7VzTLx8niemxIu6cMoI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

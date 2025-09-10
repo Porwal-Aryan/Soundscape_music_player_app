@@ -14,8 +14,9 @@ Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
     options: FirebaseOptions(
-      apiKey: 'AIzaSyBQd2j-oHIFOtB7VzTLx8niemxIu6cMoI4',
-      appId: '1:814640642403:android:1f48fabc2387a936097b56',
+      //replace thie with your own keys, also MAKE SURE to add the secret keys in the .env file unlike done here.
+      apiKey: 'AIzaSyBQd2j-oHIFOtB7iemxIu6cMoI4',
+      appId: '1:840642403:android:1f48fa7a936097b56',
       messagingSenderId: '',
       projectId: 'soundscape-872bb',
       storageBucket: '',
